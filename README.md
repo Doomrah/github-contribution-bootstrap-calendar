@@ -7,6 +7,6 @@ a calendar based on bootstrap and the api over at https://gitshame.io/.
 
 calendar source: https://github.com/Serhioromano/bootstrap-calendar
 
-###why?
+###how do i use?
 
-why not...
+i do not have it hosted anywhere yet.  so you will have to localhost it.  the url you will want to call is http://localhost/github-contribution-bootstrap-calendar/index.php?guser=GITHUB-USER-NAME
